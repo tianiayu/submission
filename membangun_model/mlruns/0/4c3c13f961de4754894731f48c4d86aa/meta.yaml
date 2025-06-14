@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Bootcamp/Laskar%20AI/Submission/Eksperimen_SML_Tiani/membangun_model/mlruns/0/4c3c13f961de4754894731f48c4d86aa/artifacts
+end_time: 1749868529936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c3c13f961de4754894731f48c4d86aa
+run_name: sedate-jay-18
+run_uuid: 4c3c13f961de4754894731f48c4d86aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749868529547
+status: 3
+tags: []
+user_id: inait

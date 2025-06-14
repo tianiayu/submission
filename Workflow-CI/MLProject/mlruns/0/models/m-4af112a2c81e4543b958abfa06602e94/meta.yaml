@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Bootcamp/Laskar%20AI/Submission/Eksperimen_SML_Tiani/Workflow-CI/MLProject/mlruns/0/models/m-4af112a2c81e4543b958abfa06602e94/artifacts
+creation_timestamp: 1749879769655
+experiment_id: '0'
+last_updated_timestamp: 1749879775712
+model_id: m-4af112a2c81e4543b958abfa06602e94
+model_type: null
+name: model
+source_run_id: d76d358efbe948d0829480982e970375
+status: 2
+status_message: null

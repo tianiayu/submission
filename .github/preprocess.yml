@@ -1,0 +1,27 @@
+name: Run Preprocessing Automation
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # Menjalankan manual dari GitHub UI
+
+jobs:
+  preprocessing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: |
+          pip install pandas scikit-learn
+
+      - name: Run automate_tiani.py
+        run: |
+          python preprocessing/automate_tiani.py

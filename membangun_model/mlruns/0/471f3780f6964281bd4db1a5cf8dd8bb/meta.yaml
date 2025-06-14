@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Bootcamp/Laskar%20AI/Submission/Eksperimen_SML_Tiani/membangun_model/mlruns/0/471f3780f6964281bd4db1a5cf8dd8bb/artifacts
+end_time: 1749868530950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 471f3780f6964281bd4db1a5cf8dd8bb
+run_name: popular-fowl-202
+run_uuid: 471f3780f6964281bd4db1a5cf8dd8bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749868530446
+status: 3
+tags: []
+user_id: inait

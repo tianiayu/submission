@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Bootcamp/Laskar%20AI/Submission/Eksperimen_SML_Tiani/membangun_model/mlruns/0/462d2ff634c946b59dbf6c263b4c058d/artifacts
+end_time: 1749868529536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 462d2ff634c946b59dbf6c263b4c058d
+run_name: likeable-ray-398
+run_uuid: 462d2ff634c946b59dbf6c263b4c058d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749868529147
+status: 3
+tags: []
+user_id: inait

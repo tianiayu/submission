@@ -1,0 +1,14 @@
+name: house-price-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - scikit-learn
+  - pip
+  - pip:
+      - mlflow
+      - scikit-learn
+      - pandas
+      - joblib
